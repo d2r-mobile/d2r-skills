@@ -1,0 +1,4 @@
+interface:
+  display_name: "高保真设计参考图"
+  short_description: "将需求脑洞和现有设计二开做成精美专业的效果图、状态对照与开发参考"
+  default_prompt: "使用 $design-reference，根据我的需求和参考图制作精美专业的高保真设计方案，保留指定区域，并清楚呈现关键交互状态。"
